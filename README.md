@@ -75,7 +75,7 @@ npm start
 
 ### 🖼️ Selection Page  
 ![Selection Page](Photos/Selection%20Page.png)
-
+<br />
 
 ## 🧑‍💻 Developer
 
