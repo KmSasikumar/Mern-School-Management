@@ -70,7 +70,6 @@ npm start
 
 ## 📸 Screenshots
 
-_Add your screenshots here (login page, dashboard views, etc.)_
 
 ## 🧑‍💻 Developer
 
