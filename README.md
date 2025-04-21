@@ -70,6 +70,13 @@ npm start
 
 ## 📸 Screenshots
 
+🖼 Main Page
+
+![Main Page](Photos/Main page.png)
+
+🖼 Selection Page
+
+![Selection Page](Photos/Selection Page.png)
 
 ## 🧑‍💻 Developer
 
