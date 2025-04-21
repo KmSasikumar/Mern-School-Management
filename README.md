@@ -73,5 +73,7 @@ npm start
 
 ## 🧑‍💻 Developer
 
+Developed by Group 82
+
 GitHub: [Mern](https://github.com/KmSasikumar)
 
